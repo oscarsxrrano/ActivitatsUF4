@@ -64,15 +64,14 @@ class Cercle {
     }
 
     fun permimetre(): Float {
-
+        return 2 * radi * kotlin.math.PI.toFloat()
     }
 
     fun area(): Float {
-
+        return kotlin.math.PI.toFloat() * radi * radi
     }
 
-    init {
-        radi = 4.0f
-        color = "blanc"
+    override fun toString(): String {
+        return "El teu cercle te un radi de $radi i es de color $color"
     }
 }
