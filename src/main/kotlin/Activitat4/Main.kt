@@ -1,4 +1,4 @@
-package org.example
+package org.example.Activitat4
 
 fun main() {
     val cr7: Persona = Persona("54645682T", "Cristiano", "Ronaldo", 38, false)

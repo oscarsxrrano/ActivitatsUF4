@@ -1,4 +1,4 @@
-package org.example
+package org.example.Activitat4
 
 // Reset
 const val RESET: String = "\u001b[0m" // Text Reset

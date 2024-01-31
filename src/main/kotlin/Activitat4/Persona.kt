@@ -1,4 +1,4 @@
-package org.example
+package org.example.Activitat4
 
 import java.awt.Color
 
